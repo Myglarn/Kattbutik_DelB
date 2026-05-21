@@ -1,6 +1,6 @@
 function Home(){
     return (
-        <H1>Hej välkommen</H1>
+        <h1>Home page</h1>
     );
 }
 
